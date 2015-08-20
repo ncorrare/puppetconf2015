@@ -1,0 +1,7 @@
+rm -rf spec/
+rm -rf spec/
+rm -rf Gemfile
+rm -rf Rakefile
+rm -rf .fixtures.yml
+rm -rf .gitignore
+rm -rf .travis.yml
